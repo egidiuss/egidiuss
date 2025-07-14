@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Egidius Rey</h1>
 <h3 align="center">A passionate flutter developer from Indonesia</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif"> -->
 
 - 🔭 I’m currently working on **PT. Baledono Informasi Teknologi**
 
