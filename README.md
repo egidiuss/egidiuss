@@ -40,7 +40,7 @@ REST API, Push Notification, Google ML Kit, App Store & Play Store Deployment
 ---
 
 ### 📌 About Me
-I build mobile applications with a focus on clean code, stable performance, and scalable architecture. I enjoy solving real-world problems through practical mobile solutions—whether it's POS systems, automation tools, or tracking applications.
+I build mobile applications with a focus on clean code, stable performance, and scalable architecture. I enjoy solving real-world problems through practical mobile solutions, whether it's POS systems, automation tools, or tracking applications.
 
 Open for collaboration and new opportunities.
 
